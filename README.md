@@ -1,8 +1,9 @@
 # Ultimate-template
 Ultimate-template: VueJs / Node+express/ webpack
 
+1/ npm run install
 
-Vue / webpack
+2 / Vue / webpack
 
 npm run serve
 
